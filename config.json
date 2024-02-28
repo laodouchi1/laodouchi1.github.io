@@ -6,7 +6,6 @@
     "avatarUrl":"https://github.com/laodouchi1/laodouchi1.github.io/assets/62784927/d6524ee0-a6c8-4cf3-b943-dc382e94bd7a",
     "faviconUrl":"https://github.com/laodouchi1/laodouchi1.github.io/assets/62784927/d6524ee0-a6c8-4cf3-b943-dc382e94bd7a",
     "singlePage":[],
-    "GMEEK_VERSION":"last",
     "email":"laodouchi@gmail.com",
     "startSite":"02/28/2024",
     "onePageListNum":15,
@@ -17,5 +16,6 @@
     "nightTheme":"dark_colorblind",
     "urlMode":"pinyin",
     "style":"",
-    "script":""
+    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
+    "GMEEK_VERSION":"last"
 }
