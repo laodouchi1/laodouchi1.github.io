@@ -1,7 +1,7 @@
 {
     "title":"Benny's Notebook",
     "displayTitle":"老豆豉的日记本",
-    "subTitle":"生活是一团麻。",
+    "subTitle":"生活是一团麻",
     "homeUrl":"https://blog.zhangjiakun.com",
     "avatarUrl":"https://github.com/laodouchi1/laodouchi1.github.io/assets/62784927/70823d04-18c4-45af-81e8-ed20c0b61db3",
     "faviconUrl":"https://github.com/laodouchi1/laodouchi1.github.io/assets/62784927/70823d04-18c4-45af-81e8-ed20c0b61db3",
@@ -10,13 +10,11 @@
     "onePageListNum":10,
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "i18n":"CN",
     "themeMode":"manual",
     "dayTheme":"light",
     "nightTheme":"dark_colorblind",
     "urlMode":"pinyin",
     "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
     "GMEEK_VERSION":"main",
-    "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
-    "needComment":1
+    "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg"
 }
